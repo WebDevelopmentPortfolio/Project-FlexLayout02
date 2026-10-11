@@ -1,6 +1,6 @@
 ### Description
 
-This is NOT an automation testing practice. This is a web development practice assignment from The Odin Project. The outcome can be viewed here https://mypracticesautomationtesting.github.io/WebDevelopment-FlexLayout02/
+Flex layout assignment from The Odin Project. The outcome can be viewed here https://webdevelopmentportfolio.github.io/Project-FlexLayout02/
 
 Using HTML and CSS with VSCode.
 
